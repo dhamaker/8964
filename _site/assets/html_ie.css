@@ -1,0 +1,8 @@
+body {
+	overflow: hidden;
+}
+
+#not-fixed {
+	height: 100%;
+	overflow: auto;
+}

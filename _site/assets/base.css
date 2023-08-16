@@ -1,0 +1,55 @@
+body {
+    font-family:verdana, sans-serif;
+    line-height:1.5;
+    margin:0 3rem 0 2rem;
+}
+main {}
+main {
+    border-top: 3px solid rgb(204,0,0);
+}
+
+.title {
+    font-size: 1.5rem;
+    color:#808080;
+}
+#narratives {
+    display:flex;
+}
+#question {
+    flex:1 1 0%;
+    max-width:15rem;
+}
+
+#stories {
+    flex:3 1 0%;
+    max-width:40rem;
+    padding-left:1rem;  
+}
+#question {
+    margin:1rem;
+    font-weight: normal;
+    font-size: 1.3rem;
+    color: #808000;
+    line-height: 1.7em;
+    letter-spacing: .05em;
+}
+
+#question::first-letter {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.date {
+    font-style: italic;
+    margin-top:-1em;
+    color:#606060;
+}
+.location {
+    font-style: italic;
+    text-align:right;
+    color:#606060;
+}
+
+footer p:last-child {
+    margin:2rem 1rem;
+}
