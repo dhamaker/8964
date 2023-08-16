@@ -3,40 +3,29 @@ body {
     line-height:1.5;
     margin:0 3rem 0 2rem;
 }
-main {}
 main {
     border-top: 3px solid rgb(204,0,0);
 }
-
+main article{
+    max-width:54rem;
+}
 .title {
     font-size: 1.5rem;
     color:#808080;
 }
-#narratives {
-    display:flex;
-}
-#question {
-    flex:1 1 0%;
-    max-width:15rem;
-}
 
-#stories {
-    flex:3 1 0%;
-    max-width:40rem;
-    padding-left:1rem;  
-}
 #question {
-    margin:1rem;
+    margin:2rem 0 3rem 0;
     font-weight: normal;
     font-size: 1.3rem;
     color: #808000;
-    line-height: 1.7em;
+    line-height: 1.3em;
     letter-spacing: .05em;
 }
-
-#question::first-letter {
+#question p {margin-top:0;}
+#question::first-letter, #question > p:first-of-type::first-letter {
     font-size: 1.5em;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .date {
@@ -50,6 +39,35 @@ main {
     color:#606060;
 }
 
+img {width:100%}
+
+figure {
+    margin:2rem 0 3rem 0;
+}
 footer p:last-child {
     margin:2rem 1rem;
+}
+
+
+
+@media (min-width:540px) {
+    #narratives {
+        display:flex;
+    }
+    #question {
+        flex:1 1 0%;
+        max-width:16rem;
+        line-height: 1.5;
+        margin-top:1rem;
+    }
+    
+    #stories {
+        flex:3 1 0%;
+        max-width:40rem;
+        padding-left:2rem;  
+    }
+
+    figure {
+        margin-top:1rem;
+    }
 }
