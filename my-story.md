@@ -12,7 +12,7 @@ In the week after Hu Yaoban's death on April 15th I was passing through the city
 
 I had barely gotten off my bike when I was approached by a some men asking me what I thought about what was happening, and what Liberty was like in the West, and did I think democracy was good for China.  Being swarmed by strangers wanting to practice their English and idlers curious see a foreigner up close was a familiar experience. But, I had lived in China long enough to learn two things.  First, China's politics was none of my business. To paraphrase the Party line, it was the internal affairs of the Chinese _people_.  And second, paranoia is not dellusional if it's true. <i lang="cn">Lao wai</i>, or "foreign devils", and "spiritual polution" are convenient redherrings for ideas that Party Leaders want to sweep away.  As a six foot tall redhead, I was clearly <i lang="cn">lao wai</i>; I felt that my presence in the square diminished the voices of the hundreds of people gathering, so I left.
 
-On April 22, students from all over Xi'an marched to the center of Xi'an.  Publically, they marched to mourn Hu Yaobang, the former Party Secretary.  But privately, they marched in support his liberal intellectual and economic reforms.  A few people took advantage of the mass crowd.  Some trucks were burnt and some stores were looted.  This later became known as the "Xi'an Incident."  A student gave me a few <a href="april22.html">photos from the day</a>.  I have published them here.
+On April 22, students from all over Xi'an marched to the center of Xi'an.  Publically, they marched to mourn Hu Yaobang, the former Party Secretary.  But privately, they marched in support his liberal intellectual and economic reforms.  A few people took advantage of the mass crowd.  Some trucks were burnt and some stores were looted.  This later became known as the "Xi'an Incident."  A student gave me a few [photos from the day](xian-incident.html).  I have published them here.
 
 # May demonstrations
 
@@ -28,7 +28,7 @@ On May 19, Martial Law was declared. Everyone expected the army to roll in and c
 
 On June 4th the army cleared the square.  News reached Xi'an in the middle of the night and sucked the air out of the campus.  I was awaken before sunrise by an unnatural quiet.  I went across campus and snuck into the graduate student dormatory where, in tears, a friend expained the news to me.  We lingered in the shock of shattered dreams.  
 
-On Tuesday June 6, a few students showed up for classes.  There my students were quiet and visibly upset.  I gave them a short writing assignment, "Where were you and how did you feel when you heard the news from Tienanmen?"  This is the source of the <a href="index.html">nineteen stories</a> published here.  
+On Tuesday June 6, a few students showed up for classes.  There my students were quiet and visibly upset.  I gave them a short writing assignment, "Where were you and how did you feel when you heard the news from Tienanmen?"  This is the source of the [nineteen stories](index.html) published here.  
 
 Over the next few days, classes were cancelled and students went home for the Summer.  A few students said they were staying to fight.  There had been rumors of break-ins at local arms factories and of troops massing on the outskirts of town; but, fortunately there was no more fighting.  I heard whispers of my parents voices in my head, telling me to "leave, I was free, it wasn't my fight, this is what credit cards are for."  A couple weeks later I caught a flight to Hong Kong.  
 
